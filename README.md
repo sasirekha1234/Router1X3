@@ -79,11 +79,11 @@ The Router 1x3 is a digital design that:
 
 
 # RTL Components
-- 1.**Router Top:** Main module integrating all submodules
-- 2.**FSM:** Controls packet routing and state management
-- 3.**FIFO:** Implements 16x9 output buffers
-- 4.**Synchronizer:** Handles communication between FSM and FIFOs
-- 5.**Register:** Implements internal registers for data handling
+ 1. **Router Top:** Main module integrating all submodules
+ 2. **FSM:** Controls packet routing and state management
+ 3. **FIFO:** Implements 16x9 output buffers
+ 4. **Synchronizer:** Handles communication between FSM and FIFOs
+ 5. **Register:** Implements internal registers for data handling
 # UVM Testbench Components
 1.**Source Agent:** Handles input port stimulus
 2.**Destination Agent:** Monitors output ports
