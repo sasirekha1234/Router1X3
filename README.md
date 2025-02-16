@@ -13,3 +13,4 @@ The Router 1x3 is a digital design that:
 
 # Architecture
 # RTL Block Diagram
+![arch](https://github.com/user-attachments/assets/eb8fbd61-740f-4da8-a37f-0b66b0cfebaf)
