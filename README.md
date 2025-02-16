@@ -6,10 +6,10 @@ This repository contains the RTL design and UVM verification environment for a 1
 
 The Router 1x3 is a digital design that:
 
- or Routes packets from one input port to three output ports
- or Uses FIFOs for output buffering (16x9 bits each)
- or Implements parity checking for error detection
- or Features a FSM-based control system
+ - Routes packets from one input port to three output ports
+ - Uses FIFOs for output buffering (16x9 bits each)
+ - Implements parity checking for error detection
+ -  Features a FSM-based control system
 
 # Architecture
 # RTL Block Diagram
